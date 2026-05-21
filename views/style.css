@@ -1,0 +1,35 @@
+body {
+    color: bisque;
+    font-size: medium;
+    margin: 10px;
+    background-color: white;
+}
+
+.login{
+    padding: 30px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    width: 350px;
+    text-align: center;
+}
+
+#log{
+    background-color: azure;
+}
+
+#log div{
+    color: black;
+    padding: 5px;
+    border: 1px solid lightgrey;
+    width: 170px;
+    text-align: center;
+    margin: auto;
+    border-radius: 10px;
+    background-color: lightblue;
+}
+
+#log input{
+    border-radius: 5px;
+    border: #ccc;
+}
+
